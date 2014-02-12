@@ -52,3 +52,7 @@ programs/sndfile-metadata-get
 programs/sndfile-metadata-set
 programs/sndfile-play
 programs/sndfile-salvage
+doc/libsndfile.css
+src/version-metadata.rc 
+doc/libsndfile.css
+src/version-metadata.rc
